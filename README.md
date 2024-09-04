@@ -16,3 +16,6 @@ Axios
 Composition API / Options API
 ESLint
 Prettier
+
+Ссылка по которой можно глянуть проект
+https://vue-sneakers-shop-three.vercel.app/
